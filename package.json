@@ -48,7 +48,7 @@
     "lint-staged": "^8.1.0",
     "lodash": "^4.16.6",
     "minimist": "^1.2.0",
-    "mocha": "^3.5.3",
+    "mocha": "^8.3.1",
     "mocha-parallel-executor": "^0.3.0",
     "mocha.parallel": "^0.15.3",
     "prettier": "^1.15.2",
